@@ -72,19 +72,11 @@
 
 <br/>  
 
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=angelhtml&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+ <div align="center"> 
+<img src='https://img.shields.io/badge/hire me-323330?style=for-the-badge&logo=sinon' alt='hire me'/>
+</div>
