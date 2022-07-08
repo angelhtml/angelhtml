@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">Hi,I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <h3 align="center">Hi,I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</h3>  
   
 
 <br/>  
 
 
-## My Skill Set  
+## My Skill 
 <table><tr><td valign="top" width="33%">
 
 
