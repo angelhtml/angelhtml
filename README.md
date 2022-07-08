@@ -9,7 +9,7 @@
 <br/>  
 
 
-## My Skill 
+## My Skills 
 <table><tr><td valign="top" width="33%">
 
 
@@ -67,7 +67,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Recent activities 
   
 
 <br/>  
