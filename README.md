@@ -4,6 +4,7 @@
   
 
 ### <h3 align="center">Hi,I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</h3>  
+<a href='https://angel-resume.netlify.app/'>Visit My Portfolio ✔</a>
   
 
 <br/>  
@@ -49,7 +50,6 @@
 
 ## Connect with me  
 <img src='https://avatars.githubusercontent.com/u/82230757?v=4' alt='img' width='50px'/>
-<a href='https://angel-resume.netlify.app/'>My Portfolio</a>
 <div align="center">
 <a href="https://github.com/angelhtml" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
