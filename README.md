@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://tinygif.com/images/2021/06/19/Mac.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <h3 align="center">Hi,I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</h3>  
 <a href='https://angel-resume.netlify.app/'>Visit My Portfolio ✔</a>
