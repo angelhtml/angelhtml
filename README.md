@@ -47,7 +47,7 @@
 
 <br/>  
 
-## My new products
+## My new product
 
 <div align='center'>
 <h3>Dawn Fm player 🎵</h3>
