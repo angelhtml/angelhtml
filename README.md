@@ -1,10 +1,9 @@
 <div align="center">
-<img src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp" align="center"  alt='img'/>
+  <img src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp" align="center"  alt='img'/><br />
+  <a align="center" href='https://angel-resume.netlify.app/'>Visit My Portfolio ✔</a>
 </div>  
 
-<!-- ### <h3 align="center">Hi,I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</h3>  -->
 <!-- https://tinygif.com/images/2021/06/19/Mac.gif -->
-<a href='https://angel-resume.netlify.app/'>Visit My Portfolio ✔</a>
   
 
 <br/>  
