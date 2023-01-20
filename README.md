@@ -47,6 +47,15 @@
 ## My new product
 
 <div align='center'>
+<h3>Angel DB 📜</h3>
+<p>The fast json database for Node.js</p>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png' alt="angel db npm"/><br />
+<a href="https://github.com/angelhtml/angeldb">Read more here<a/>
+</div>
+  <hr />
+<br />
+
+<div align='center'>
 <h3>Dawn Fm player 🎵</h3>
 <p>Music player using with Next.js</p>
 <img src='https://iili.io/4xBBbS.gif' alt="Dawn fm"/><br />
