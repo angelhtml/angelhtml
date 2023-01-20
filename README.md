@@ -49,7 +49,7 @@
 <div align='center'>
 <h3>Angel DB 📜</h3>
 <p>The fast json database for Node.js</p>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png' alt="angel db npm"/><br />
+<img width="30%" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png' alt="angel db npm"/><br />
 <a href="https://github.com/angelhtml/angeldb">Read more here<a/>
 </div>
   <hr />
