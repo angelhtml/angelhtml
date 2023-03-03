@@ -57,13 +57,6 @@
   <hr />
 <br />
 
-<div align='center'>
-<h3>Dawn Fm player 🎵</h3>
-<p>Music player using with Next.js</p>
-<img src='https://iili.io/4xBBbS.gif' alt="Dawn fm"/><br />
-<a href="https://github.com/angelhtml/Dawn-Fm-player">Read more here<a/>
-</div>
-<br />
 
 
 ## Connect with me  
