@@ -40,6 +40,11 @@
 
 </td><td valign="top" width="33%">
 
+### Fullstack
+<div align="center">  
+<img style="margin: 10px" src="https://www.solidjs.com/assets/logo-123b04bc.svg" alt="Solid_js" height="50" />  
+<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8x0zx8ykjWoRP-YBskfjjLt78mUJ0quQDg5apyL6wiCwsueHv1pvwbkeREtTqgYyNto&usqp=CAU" alt="Next_js" height="50" />  
+</div>
 
 
 </td></tr></table>  
