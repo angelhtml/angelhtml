@@ -79,10 +79,10 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=angelhtml&show_icons=true&theme=radical"/></div>  
+<!--## Github Stats  -->
+<!--<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=angelhtml&show_icons=true&theme=radical"/></div>  -->
 
-<br/>  
+<!--<br/>  -->
 
 
 ## Recent activities 
