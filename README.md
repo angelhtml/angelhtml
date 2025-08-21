@@ -11,10 +11,10 @@
 
 
 ## My Skills 
-<table><tr><td valign="top" width="33%">
+<table width="100%" align="center"><tr><td valign="top" width="100%">
 
 
-### Frontend  
+### Skills  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -22,32 +22,26 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://iili.io/K984B2V.png" alt="Sass" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+  <img style="margin: 10px" src="https://iili.io/K98192V.png" alt="Solid_js" height="50" />  
+<img style="margin: 10px" src="https://iili.io/K98Glm7.png" alt="Next_js" height="50" />  
+  <img style="margin: 10px" src="https://iili.io/K98Xt94.png" alt="Solid_js" height="50" />   
 </div>
 
-</td><td valign="top" width="33%">
-
-### Fullstack
-<div align="center">  
-<img style="margin: 10px" src="https://www.solidjs.com/assets/logo-123b04bc.svg" alt="Solid_js" height="50" />  
-<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8x0zx8ykjWoRP-YBskfjjLt78mUJ0quQDg5apyL6wiCwsueHv1pvwbkeREtTqgYyNto&usqp=CAU" alt="Next_js" height="50" />  
-</div>
+<!--  </td><td valign="top" width="33%"> -->
 
 
+  
 </td></tr></table>  
+
+
+
 
 <br/>  
 
