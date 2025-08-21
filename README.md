@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cB6d_K8v--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_775/https://dev-to-uploads.s3.amazonaws.com/i/hlhrtuspjyrstifubdhs.gif" align="center"  alt='img'/><br />
+  <img src="https://miro.medium.com/v2/0*I_nlWjD6faxLrjAY.gif" align="center"  alt='img'/><br />
     <p>Visualizing Promises and Async/Await</p>
   <a align="center" href='https://angel-resume.netlify.app/'>Visit My Portfolio ✔</a>
 </div>  
